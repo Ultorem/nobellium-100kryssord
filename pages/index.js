@@ -26,7 +26,7 @@ export default function Blog ({ postsToShow, page, showNext }) {
 
   return (
 <Container title={title} description={description}>
-  <h1 class="w-full font-bold text-3xl text-black dark:text-white max-w-2xl px-4">100 Kryssord - Finn din kryssordhjelp</h1><br></br>
+  <h1 class="w-full font-bold text-3xl text-black dark:text-white max-w-2xl px-4">Manifestation</h1><br></br>
   <div> <img src="https://runescape.wiki/images/Diary_of_an_Overzealous_Gnome_detail.png?3c7e3"></img></div><br></br>
   {postsToShow.map(post => (
     <BlogPost key={post.id} post={post} />
