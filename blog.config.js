@@ -28,7 +28,7 @@ const BLOG = {
   analytics: {
     provider: "ga", // Currently we support Google Analytics, please fill with 'ga', leave it empty to disable it.
     gaConfig: {
-      measurementId: "G-M83NWKYMJT", // e.g: G-XXXXXXXXXX
+      measurementId: "G-M83NWKYMJT", // e.g: G-XXXXXXXXX
     },
   },
   comment: {
