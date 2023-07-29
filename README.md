@@ -25,14 +25,14 @@ Demo: [https://nobelium.vercel.app/](https://nobelium.vercel.app/)
 <img src="https://github.com/craigary/nobelium/blob/main/desktop.png?raw=true">
 </details>
 
-## Highlights ✨
+## Highlights ✨ x
 
 **🚀 &nbsp;Fast and responsive**
 
 - Fast page render and responsive design
 - Fast static generation with efficient compiler
 
-**🤖 &nbsp;Deploy instantly**
+**🤖 &nbsp;Deploy instantly**,
 
 - Deploy on Vercel in minutes
 - Incremental regeneration and no need to redeploy after update the content in notion
